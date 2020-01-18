@@ -9,14 +9,14 @@ class Spider01Spider(scrapy.Spider):
 
     def start_requests(self):
         search_words = [
-            ('story', 'English'),
-            ('récit', 'French'),
-            ('storia', 'Italian'),
-            ('история', 'Russian'),
-            ('historia', 'Spanish'),
-            ('Geschichte', 'German'),
-            ('कहानी', 'Hindi'),
-            ('قصة', 'Arabic'),
+            # ('story', 'English'),
+            # ('récit', 'French'),
+            # ('storia', 'Italian'),
+            # ('история', 'Russian'),
+            # ('historia', 'Spanish'),
+            # ('Geschichte', 'German'),
+            # ('कहानी', 'Hindi'),
+            # ('قصة', 'Arabic'),
             ('物語', 'Japanese'),
             ('داستان', 'Persian'),
             ('故事', 'Chinese')
