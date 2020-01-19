@@ -17,9 +17,9 @@ class Spider01Spider(scrapy.Spider):
             # ('Geschichte', 'German'),
             # ('कहानी', 'Hindi'),
             # ('قصة', 'Arabic'),
-            # ('物語', 'Japanese'),
-            # ('داستان', 'Persian'),
-            ('故事', 'Chinese')
+            ('物語', 'Japanese'),
+            ('داستان', 'Persian')
+            # ('故事', 'Chinese')
         ]
         base_url = 'https://archive.org/search.php?query={0}&and[]=languageSorter%3A%22{1}%22&and[]=mediatype%3A%22texts%22&and[]=loans__status__status%3A%22-1%22'
         for search in search_words:

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b6e780e-216e-4177-b36c-48d9e4fde4f5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive_org_content/spiders/spider01.py" beforeDir="false" afterPath="$PROJECT_DIR$/archive_org_content/spiders/spider01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579374463342</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3">
+      <created>1579394397083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579394397083</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3">
+      <created>1579394432668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579394432668</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -76,14 +91,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2" timestamp="1579394396916">
+    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2" timestamp="1579394432563">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579394396915" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579374476894">
+    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579394432563" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579394454890">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579374476894" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579394454890" />
     <state x="656" y="257" width="670" height="58" key="search.everywhere.popup" timestamp="1577461725537">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
