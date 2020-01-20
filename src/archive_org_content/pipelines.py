@@ -20,7 +20,7 @@ class CheckContent(object):
 
 class JsonPipeline(object):
     def __init__(self):
-        self.file = open("data.json", 'wb')
+        self.file = open("info/data.json", 'wb')
         self.exporter = JsonItemExporter(self.file, encoding='utf-8', ensure_ascii=False)
         self.exporter.start_exporting()
 
