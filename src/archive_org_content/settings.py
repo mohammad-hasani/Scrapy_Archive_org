@@ -21,6 +21,8 @@ NEWSPIDER_MODULE = 'archive_org_content.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
+CLOSESPIDER_ITEMCOUNT = 300
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
@@ -66,6 +68,7 @@ ROBOTSTXT_OBEY = True
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'archive_org_content.pipelines.CheckContent': 300,
+    'archive_org_content.pipelines.JsonPipeline': 400,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
