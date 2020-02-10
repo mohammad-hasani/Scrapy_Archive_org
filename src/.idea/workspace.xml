@@ -138,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581343140287</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="all active 2">
+      <created>1581356991506</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1581356991506</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,14 +156,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="all active 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2" timestamp="1581343140216">
+    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2" timestamp="1581356991347">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581343140216" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581343158861">
+    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581356991347" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581357000204">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581343158861" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581357000204" />
     <state x="607" y="346" width="763" height="413" key="git4idea.merge.GitPullDialog" timestamp="1581343129212">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
