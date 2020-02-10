@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b6e780e-216e-4177-b36c-48d9e4fde4f5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive_org_content/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/archive_org_content/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579557909391</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="all active">
+      <created>1581343103695</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581343103695</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,14 +140,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="all active" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2" timestamp="1579557908930">
+    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2" timestamp="1581343103527">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579557908930" />
+    <state x="597" y="149" width="783" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581343103527" />
     <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579557917852">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579557917852" />
+    <state x="607" y="346" width="763" height="413" key="git4idea.merge.GitPullDialog" timestamp="1581343129212">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="607" y="346" width="763" height="413" key="git4idea.merge.GitPullDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581343129212" />
     <state x="656" y="257" width="670" height="58" key="search.everywhere.popup" timestamp="1577461725537">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
